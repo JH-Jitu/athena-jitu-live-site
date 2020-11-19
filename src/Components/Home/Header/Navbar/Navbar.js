@@ -7,9 +7,9 @@ const Navbar = () => {
     return (
         <div className="container mb-2">
             <nav className="navbar navbar-expand-lg  nav-font">
-                <button className="navbar-toggler bgMenu w-40 btn-dark p-2 pl-3 pr-3 ml-auto mt-4" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <p className="navbar-toggler bgMenu w-40 p-2 pl-3 pr-3 ml-auto mt-4" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     
-                </button>
+                </p>
                 <div className="collapse navbar-collapse " id="navbarNav">
                     
                         <img style={{ width: "100px" }} src={logo} alt=""/>
