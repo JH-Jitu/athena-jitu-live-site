@@ -4,7 +4,7 @@ import Navbar from './Navbar/Navbar';
 
 const Header = () => {
     return (
-        <section style={{marginBottom: "120px"}}>
+        <section style={{marginBottom: "30px"}}>
         <div className="headerSec mb-2">
             <Navbar></Navbar>
             <MainSec></MainSec>

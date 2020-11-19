@@ -1,19 +1,19 @@
 .headerSec {
   background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
-    height: 600px;
+    height: 100vh;
 }
 
 @media screen and (min-width: 1920px){
     .headerSec {
       background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
-        height: 900px;
+        height: 100vh;
     }
 }
 
 @media screen and (max-width: 736px){
     .headerSec {
       background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
-        height: 900px;
+        height: 100vh;
     }
 }
 .headMain{
@@ -50,3 +50,14 @@
     .btnHire:hover {
       background: linear-gradient(155deg, #0cc7ae, #22909c, #014353); 
     }
+
+
+    .servicePart{
+    padding: 25px;
+    }
+
+  .servicePart:hover{
+    background-color: white;
+    border-radius: 60px 0px;
+    padding: 25px;
+  }
