@@ -3,8 +3,30 @@
     text-decoration: none;
 }
 .bgMenu{
-    background: linear-gradient(to right, #272e42, #040d27);
+  background-image: url("menu.png");
+  border: none;
+  height: 5vh;
+  width: 5vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border: none;
 }
+
+.bgMenu:hover {
+  background: linear-gradient(155deg, #ffffff, #ffffff, #ffffff); 
+  background-image: url("cross.png");
+  border: none;
+  height: 5vh;
+  width: 5vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+
 
 
 
