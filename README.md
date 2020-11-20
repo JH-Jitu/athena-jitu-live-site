@@ -20,9 +20,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Live-Link: https://athena-design-demo.netlify.app/
 
-
-`Back to` [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
-
 - A Reactjs design & responsive based Project.
 - An practiced project.
 - small team project.
