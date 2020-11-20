@@ -4,18 +4,61 @@
 }
 
 @media screen and (min-width: 1920px){
+<<<<<<< HEAD
     .headerSec {
+=======
+    .headerSec, .project {
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
       background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
         height: 70vh;
     }
 }
+<<<<<<< HEAD
+=======
+@media screen and (max-width: 1024px){
+  .headerSec {
+    background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+      height: 70vh;
+  }
+  .project{
+    background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+      height: 80vh;
+  }
+}
+
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
 
 @media screen and (max-width: 736px){
     .headerSec {
       background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+<<<<<<< HEAD
         height: 90vh;
     }
 }
+=======
+        height: 100vh;
+    }
+    .project{
+      background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+        height: 120vh;
+    }
+    .bg-footer{
+      text-align: center;
+    }
+}
+@media screen and (max-width: 380px){
+  .project, .headerSec{
+    background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+      height: 140vh;
+  }
+}
+@media screen and (max-width: 330px){
+  .project, .headerSec{
+    background: linear-gradient(155deg, rgb(218, 195, 253), #ffffff );
+      height: 160vh;
+  }
+}
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
 .headMain{
     font-family: muli, sans-serif;
   font-weight: 700;
@@ -40,7 +83,11 @@
     }
   }
 .btnHire{
+<<<<<<< HEAD
   background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4); 
+=======
+  background: linear-gradient(155deg, rgb(75, 212, 110), #1bd6bd, #11c1d3, #0491b4); 
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
     text-decoration: none; 
     color: white;
     border-radius: 20px 0px;
@@ -48,7 +95,11 @@
 }
 
     .btnHire:hover {
+<<<<<<< HEAD
       background: linear-gradient(155deg, #0cc7ae, #22909c, #014353); 
+=======
+      background-image: linear-gradient(to right, rgb(75, 212, 110),rgb(7, 207, 207)); 
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
     }
 
 

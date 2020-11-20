@@ -31,7 +31,11 @@
 
 
 .btnLogin{
+<<<<<<< HEAD
   background: linear-gradient(155deg, #1bd6bd, #11c1d3, #0491b4); 
+=======
+  background: linear-gradient(155deg, rgb(75, 212, 110), #1bd6bd, #11c1d3, #0491b4); 
+>>>>>>> f90da940914e0f29d010d117e170ca40f3c6e986
   text-decoration: none; 
   color: white;
   border-radius: 20px 0px;
